@@ -1,0 +1,257 @@
+{
+    "empleados": [
+        {
+            "id": 1,
+            "nombre": "Tekken 8",
+            "precio": "s/.339",
+            "stock": "+10",
+            "categoria": "Acción",
+            "descripcion": "La legendaria franquicia de lucha regresa con nuevos personajes, modos y mecánicas de juego.",
+            "desarrollador": " Bandai Namco Entertainment.",
+            "disponibilidad": "Recojo en tienda",
+            "imagen": "https://pesonyb2c.vtexassets.com/arquivos/ids/223280-1600-auto?v=638465279113900000&width=1600&height=auto&aspect=true"
+        },
+
+        {
+            
+            "id": 2,
+            "nombre": "Gran Turismo 7",
+            "precio": "s/.299",
+            "stock": "5",
+            "categoria": "Conducción/ Carreras",
+            "descripcion": "La aclamada serie de carreras regresa con gráficos impresionantes y una amplia variedad de coches y pistas.",
+            "desarrollador": "Sony Interactive Entertainment.",
+            "disponibilidad": "Recojo en tienda",
+            "imagen":"https://pesonyb2c.vtexassets.com/arquivos/ids/222890-1600-auto?v=638362574897600000&width=1600&height=auto&aspect=true"
+        },
+
+        {
+            "id": 3,
+            "nombre": "Dead Space",
+            "precio": "s/.279",
+            "stock": "5",
+            "categoria": "Horror de supervivencia",
+            "descripcion": "Remake del clásico juego de horror y supervivencia espacial con gráficos y jugabilidad mejorados.",
+            "desarrollador": "Motive Studio (publicado por Electronic Arts).",
+            "disponibilidad": "Sólo delivery",
+            "imagen":"https://pesonyb2c.vtexassets.com/arquivos/ids/220985-1600-auto?v=638121325597630000&width=1600&height=auto&aspect=true"
+            
+        },
+
+        {
+            "id": 4,
+            "nombre": "Horizon Forbidden West",
+            "precio": "s/.329",
+            "stock": "8",
+            "categoria": "Acción-RPG",
+            "descripcion": "Aventura de mundo abierto en un futuro post-apocalíptico con exploración, combate y misiones épicas.",
+            "desarrollador": "Guerrilla Games.",
+            "disponibilidad": "Recojo en tienda/ Delivery",
+            "imagen":"https://pesonyb2c.vtexassets.com/arquivos/ids/219127-1600-auto?v=637859885220370000&width=1600&height=auto&aspect=true"
+        },
+
+        {
+            "id": 5,
+            "nombre": "Horizon Zero Dawn",
+            "precio": "s/.149",
+            "stock": "1",
+            "categoria": "Acción-RPG",
+            "descripcion": "Aventura en un vasto mundo post-apocalíptico con combate contra criaturas mecánicas.",
+            "desarrollador": "Guerrilla Games.",
+            "disponibilidad": "Recojo en tienda",
+            "imagen":"https://pesonyb2c.vtexassets.com/arquivos/ids/218103-1600-auto?v=637732690959770000&width=1600&height=auto&aspect=true"
+        },
+
+        {
+            "id": 6,
+            "nombre": "Back 4 Blood",
+            "precio": "s/.199",
+            "stock": "7",
+            "categoria": "Shooter cooperativo",
+            "descripcion": "Juego de disparos cooperativo de supervivencia contra hordas de zombis.",
+            "desarrollador": "Turtle Rock Studios.",
+            "disponibilidad": "Recojo en tienda/ Delivery",
+            "imagen":"https://pesonyb2c.vtexassets.com/arquivos/ids/217960-1600-auto?v=637708746616200000&width=1600&height=auto&aspect=true"
+        },
+
+        {
+            "id": 7,
+            "nombre": "The Last of Us Part I",
+            "precio": "s/.299",
+            "stock": "4",
+            "categoria": "Acción-Aventura",
+            "descripcion": "Remake del aclamado juego de supervivencia y aventura en un mundo post-apocalíptico.",
+            "desarrollador": "Naughty Dog.",
+            "disponibilidad": "Sólo delivery",
+            "imagen":"https://pesonyb2c.vtexassets.com/arquivos/ids/220032-1600-auto?v=637975539282070000&width=1600&height=auto&aspect=true"
+        },
+
+        {
+            "id": 8,
+            "nombre": "GTA V",
+            "precio": "s/.99",
+            "stock": "+10",
+            "categoria": "Acción-Aventura",
+            "descripcion": "Mundo abierto donde los jugadores pueden completar misiones o explorar libremente.",
+            "desarrollador": "Rockstar North.",
+            "disponibilidad": "Recojo en tienda/ Delivery",
+            "imagen":"https://pesonyb2c.vtexassets.com/arquivos/ids/219475-1600-auto?v=637897044576030000&width=1600&height=auto&aspect=true"
+        },
+
+        {
+            "id": 9,
+            "nombre": "Mortal Kombat 11",
+            "precio": "s/.269",
+            "stock": "6",
+            "categoria": "Lucha",
+            "descripcion": "Juego de lucha con combates intensos y gráficos realistas.",
+            "desarrollador": "NetherRealm Studios.",
+            "disponibilidad": "Recojo en tienda",
+            "imagen":"https://pesonyb2c.vtexassets.com/arquivos/ids/215652-1600-auto?v=637577843313270000&width=1600&height=auto&aspect=true"
+        },
+        
+        {
+            "id": 10,
+            "nombre": "Resident Evil Village",
+            "precio": "s/.299",
+            "stock": "5",
+            "categoria": "Horror de supervivencia",
+            "descripcion": "Juego de horror y supervivencia con gráficos impresionantes y una atmósfera aterradora.",
+            "desarrollador": "Capcom.",
+            "disponibilidad": "Sólo delivery",
+            "imagen": "https://pesonyb2c.vtexassets.com/arquivos/ids/215510-1600-auto?v=637558816696270000&width=1600&height=auto&aspect=true"
+        },
+        
+        {
+            "id": 11,
+            "nombre": "Ratchet & Clank: Rift Apart",
+            "precio": "s/.319",
+            "stock": "+10",
+            "categoria": "Acción-Plataformas",
+            "descripcion": "Juego de acción y plataformas con saltos entre dimensiones y gráficos impresionantes.",
+            "desarrollador": "Insomniac Games.",
+            "disponibilidad": "Recojo en tienda/ Delivery",
+            "imagen": "https://pesonyb2c.vtexassets.com/arquivos/ids/207377-1600-auto?v=637184716924070000&width=1600&height=auto&aspect=true"
+        },
+
+        {
+            "id": 12,
+            "nombre": "God of War",
+            "precio": "s/.119",
+            "stock": "+10",
+            "categoria": "Acción-Aventura",
+            "descripcion": "Kratos regresa en una épica aventura en la mitología nórdica con su hijo Atreus.",
+            "desarrollador": "Santa Monica Studio.",
+            "disponibilidad": "Recojo en tienda",
+            "imagen": "https://pesonyb2c.vtexassets.com/arquivos/ids/207329-1600-auto?v=637183199747870000&width=1600&height=auto&aspect=true"
+        },
+
+        {
+            "id": 13,
+            "nombre": "Spider-Man: Miles Morales",
+            "precio": "s/.249",
+            "stock": "+10",
+            "categoria": "Acción-Aventura",
+            "descripcion": "Aventura de superhéroes con Miles Morales en un Manhattan nevado.",
+            "desarrollador": "Insomniac Games.",
+            "disponibilidad": "Recojo en tienda/ Delivery",
+            "imagen": "https://pesonyb2c.vtexassets.com/arquivos/ids/211800-1600-auto?v=637371760416870000&width=1600&height=auto&aspect=true"
+        },
+        
+        {
+            "id": 14,
+            "nombre": "Demon's Souls",
+            "precio": "s/.349",
+            "stock": "7",
+            "categoria": "Acción-RPG",
+            "descripcion": "Remake del clásico juego de rol y acción con gráficos mejorados y desafíos intensos.",
+            "desarrollador": "Bluepoint Games.",
+            "disponibilidad": "Sólo delivery",
+            "imagen": "https://pesonyb2c.vtexassets.com/arquivos/ids/211858-1600-auto?v=637372617954170000&width=1600&height=auto&aspect=true"
+        },
+
+        {
+            "id": 15,
+            "nombre": "Sackboy: A Big Adventure",
+            "precio": "s/.219",
+            "stock": "+10",
+            "categoria": "Plataformas",
+            "descripcion": "Juego de plataformas en 3D con Sackboy en una divertida y colorida aventura.",
+            "desarrollador": "Sumo Digital.",
+            "disponibilidad": "Recojo en tienda/ Delivery",
+            "imagen": "https://pesonyb2c.vtexassets.com/arquivos/ids/211768-1600-auto?v=637371568976230000&width=1600&height=auto&aspect=true"
+        },
+
+        {
+            "id": 16,
+            "nombre": "The Last of Us Part II",
+            "precio": "s/.199",
+            "stock": "5",
+            "categoria": "Acción-Aventura",
+            "descripcion": "Secuela de la aclamada aventura post-apocalíptica centrada en Ellie y su viaje de venganza.",
+            "desarrollador": "Naughty Dog.",
+            "disponibilidad": "Sólo delivery",
+            "imagen": "https://pesonyb2c.vtexassets.com/arquivos/ids/207728-1600-auto?v=637236105209970000&width=1600&height=auto&aspect=true"
+        },
+        
+        {
+            "id": 17,
+            "nombre": "Final Fantasy XII: The Zodiac Age",
+            "precio": "s/.139",
+            "stock": "9",
+            "categoria": "JRPG",
+            "descripcion": "Remaster del clásico JRPG con gráficos mejorados y nuevas características.",
+            "desarrollador": "Square Enix.",
+            "disponibilidad": "Recojo en tienda/ Delivery",
+            "imagen": "https://pesonyb2c.vtexassets.com/arquivos/ids/207532-1600-auto?v=637203026986430000&width=1600&height=auto&aspect=true"
+        },
+
+        {
+            "id": 18,
+            "nombre": "Spider-Man: Game of the Year Edition",
+            "precio": "s/.159",
+            "stock": "6",
+            "categoria": "Acción-Aventura",
+            "descripcion": "Aventura de superhéroes con todos los DLC incluidos en un mundo abierto de Nueva York.",
+            "desarrollador": "Insomniac Games.",
+            "disponibilidad": "Recojo en tienda/ Delivery",
+            "imagen": "https://pesonyb2c.vtexassets.com/arquivos/ids/207357-1600-auto?v=637184006767670000&width=1600&height=auto&aspect=true"
+        },
+        
+        {
+            "id": 19,
+            "nombre": "Star Wars Battlefront II",
+            "precio": "s/.79",
+            "stock": "+10",
+            "categoria": "Shooter en primera/tercera persona",
+            "descripcion": "Juego de disparos en el universo de Star Wars con modos multijugador y campaña.",
+            "desarrollador": "DICE.",
+            "disponibilidad": "Recojo en tienda/ Delivery",
+            "imagen": "https://pesonyb2c.vtexassets.com/arquivos/ids/175689-1600-auto?v=636485848926230000&width=1600&height=auto&aspect=true"
+        },
+    
+        {
+            "id": 20,
+            "nombre": " Call of Duty®: Modern Warfare® III",
+            "precio": "s/.319",
+            "stock": "8",
+            "categoria": "Shooter en primera persona (FPS)",
+            "descripcion": "La aclamada entrega de la franquicia con gráficos mejorados, jugabilidad intensa y modos multijugador variados.",
+            "desarrollador": "Infinity Ward y Sledgehammer Games.",
+            "disponibilidad": "Sólo delivery",
+            "imagen": "https://pesonyb2c.vtexassets.com/arquivos/ids/222874-1600-auto?v=638357476063230000&width=1600&height=auto&aspect=true"
+        },
+
+        {
+            "id": 21,
+            "nombre": "Uncharted: The Nathan Drake Collection",
+            "precio": "s/.129",
+            "stock": "+10",
+            "categoria": "Acción-Aventura",
+            "descripcion": "Trilogía remasterizada de las aventuras de Nathan Drake, con gráficos mejorados y todos los DLC.",
+            "desarrollador": "Naughty Dog.",
+            "disponibilidad": "Recojo en tienda/ Delivery",
+            "imagen": "https://pesonyb2c.vtexassets.com/arquivos/ids/207234-1600-auto?v=637172630122030000&width=1600&height=auto&aspect=true"
+        }
+    ]
+}
